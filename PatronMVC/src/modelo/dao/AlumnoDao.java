@@ -18,7 +18,6 @@ import modelo.vo.AlumnoVo;
 
 /**
  * Clase que permite el acceso a la base de datos
- * @author chenao
  *
  */
 public class AlumnoDao
